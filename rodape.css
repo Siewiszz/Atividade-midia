@@ -8,10 +8,13 @@
     }
     .lista-rodape__titulo{
         padding: 1em;
+        color: var(--cor-fonte-menu);
+        font-weight: 800;
     }
     .lista-rodape__link{
         text-decoration: none;
         font-size: 18px;
+        color: var(--cor-fonte-menu);
     }
     .lista-rodape__itens{
         align-items: center;
